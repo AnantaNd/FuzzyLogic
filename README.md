@@ -3,7 +3,7 @@ Tugas WGTIK Pertemuan 13
 
 Hanya portofolio 
 
-Check it out! : 
+Check it out! : https://github.com/AnantaNd/WGTIK_1303194084
 
 Nama : Ananta Noviandanu
 NIM : 1303194084
