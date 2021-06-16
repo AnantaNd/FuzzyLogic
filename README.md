@@ -1,7 +1,7 @@
 # WGTIK_1303194084
 Tugas WGTIK Pertemuan 13
 
-Hanya portofolio 
+Hanya portofolio terkait fuzzy logic
 
 Check it out! : https://github.com/AnantaNd/WGTIK_1303194084
 
