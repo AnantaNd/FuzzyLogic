@@ -1,5 +1,5 @@
-# WGTIK_1303194084
-Tugas WGTIK Pertemuan 13
+# Fuzzy Logic
+
 
 Portofolio terkait fuzzy logic
 
